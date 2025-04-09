@@ -5,5 +5,8 @@ git clone https://github.com/gfiedler2026/newSkill.git
 you would obviously insert your own repo here.
 
 Now, since my repo is empty it would display a warning that i'm cloning an empty repo. But this README will be my first "push" to my repo. I would accomplish adding a commit first, then calling git push.
+git add README.txt //to stage the change
 git commit -m "adding README.txt file"
 git push
+
+with that, we have successfully adding and pushed a new file to our github! now you can go to that link above and see that it has been added. (obviously ill be addng other things).
