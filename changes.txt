@@ -1,0 +1,1 @@
+This file will be demonstrating the git command for changes. I'll first push it to my git repo like i did with README file, then I will make some changes to this file and show in terminal what that would look like. 
