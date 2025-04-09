@@ -1,0 +1,9 @@
+so now this will demonstrate what happens when we branch off. To make a new branch:
+git checkout -b newBranch 
+or 
+git branch - u newBranch
+
+//newBranch is just the name i used for my newBranch, the name can be anything you wish
+now from here to start adding to the newBranch, i should be able to just push as normal
+
+Adding some more stuff to try and advance this past the master branch.
